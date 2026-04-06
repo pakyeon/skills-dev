@@ -8,6 +8,7 @@ This repository contains various development-related skills designed to perfectl
 
 | Skill Name | Description |
 |---|---|
+| **[kis-code-assistant](skills/kis-code-assistant/)** | A hybrid skill for Korea Investment Open API discovery, official example source lookup, and KIS Python code generation. This skill was created based on Korea Investment & Securities Open API's `KIS Code Assistant MCP`. |
 | **[scrapling-dev](skills/scrapling-dev/)** | An undetected, fast, and lightweight web scraping library. Unifies HTTP requests, browser automation, anti-bot bypassing (e.g., Cloudflare), and HTML parsing under a single intuitive API. |
 
 ## How to Use

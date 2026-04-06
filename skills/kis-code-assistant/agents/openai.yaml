@@ -1,0 +1,3 @@
+display_name: KIS Code Assistant
+short_description: Search KIS Open API entries, fetch official examples, and generate KIS Python code.
+default_prompt: Help with KIS Open API discovery, example lookup, and Python code generation.
